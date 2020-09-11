@@ -1,0 +1,42 @@
+C:\Users\Albert\source\repos\TextEditor\TextEditor\bin\Debug\TextEditor.exe.config
+C:\Users\Albert\source\repos\TextEditor\TextEditor\bin\Debug\TextEditor.exe
+C:\Users\Albert\source\repos\TextEditor\TextEditor\bin\Debug\TextEditor.pdb
+C:\Users\Albert\source\repos\TextEditor\TextEditor\obj\Debug\TextEditor.csprojAssemblyReference.cache
+C:\Users\Albert\source\repos\TextEditor\TextEditor\obj\Debug\MainWindow.g.cs
+C:\Users\Albert\source\repos\TextEditor\TextEditor\obj\Debug\App.g.cs
+C:\Users\Albert\source\repos\TextEditor\TextEditor\obj\Debug\TextEditor_MarkupCompile.cache
+C:\Users\Albert\source\repos\TextEditor\TextEditor\obj\Debug\TextEditor_MarkupCompile.lref
+C:\Users\Albert\source\repos\TextEditor\TextEditor\obj\Debug\MainWindow.baml
+C:\Users\Albert\source\repos\TextEditor\TextEditor\obj\Debug\TextEditor.g.resources
+C:\Users\Albert\source\repos\TextEditor\TextEditor\obj\Debug\TextEditor.Properties.Resources.resources
+C:\Users\Albert\source\repos\TextEditor\TextEditor\obj\Debug\TextEditor.csproj.GenerateResource.cache
+C:\Users\Albert\source\repos\TextEditor\TextEditor\obj\Debug\TextEditor.csproj.CoreCompileInputs.cache
+C:\Users\Albert\source\repos\TextEditor\TextEditor\obj\Debug\TextEditor.exe
+C:\Users\Albert\source\repos\TextEditor\TextEditor\obj\Debug\TextEditor.pdb
+C:\Users\Albert\source\repos\TextEditor\TextEditor\obj\Debug\stats.g.cs
+C:\Users\Albert\source\repos\TextEditor\TextEditor\obj\Debug\stats.baml
+C:\Users\Albert\source\repos\TextEditor\TextEditor\bin\Debug\TextEditor.exe.manifest
+C:\Users\Albert\source\repos\TextEditor\TextEditor\bin\Debug\TextEditor.application
+C:\Users\Albert\source\repos\TextEditor\TextEditor\obj\Debug\TextEditor.exe.manifest
+C:\Users\Albert\source\repos\TextEditor\TextEditor\obj\Debug\TextEditor.application
+C:\Users\Albert\Documents\Visual Studio 2019\Repos\TextEditor\TextEditor\bin\Debug\TextEditor.exe.config
+C:\Users\Albert\Documents\Visual Studio 2019\Repos\TextEditor\TextEditor\bin\Debug\TextEditor.exe.manifest
+C:\Users\Albert\Documents\Visual Studio 2019\Repos\TextEditor\TextEditor\bin\Debug\TextEditor.application
+C:\Users\Albert\Documents\Visual Studio 2019\Repos\TextEditor\TextEditor\bin\Debug\TextEditor.exe
+C:\Users\Albert\Documents\Visual Studio 2019\Repos\TextEditor\TextEditor\bin\Debug\TextEditor.pdb
+C:\Users\Albert\Documents\Visual Studio 2019\Repos\TextEditor\TextEditor\obj\Debug\TextEditor.csprojAssemblyReference.cache
+C:\Users\Albert\Documents\Visual Studio 2019\Repos\TextEditor\TextEditor\obj\Debug\MainWindow.g.cs
+C:\Users\Albert\Documents\Visual Studio 2019\Repos\TextEditor\TextEditor\obj\Debug\Stats.g.cs
+C:\Users\Albert\Documents\Visual Studio 2019\Repos\TextEditor\TextEditor\obj\Debug\App.g.cs
+C:\Users\Albert\Documents\Visual Studio 2019\Repos\TextEditor\TextEditor\obj\Debug\TextEditor_MarkupCompile.cache
+C:\Users\Albert\Documents\Visual Studio 2019\Repos\TextEditor\TextEditor\obj\Debug\TextEditor_MarkupCompile.lref
+C:\Users\Albert\Documents\Visual Studio 2019\Repos\TextEditor\TextEditor\obj\Debug\MainWindow.baml
+C:\Users\Albert\Documents\Visual Studio 2019\Repos\TextEditor\TextEditor\obj\Debug\Stats.baml
+C:\Users\Albert\Documents\Visual Studio 2019\Repos\TextEditor\TextEditor\obj\Debug\TextEditor.g.resources
+C:\Users\Albert\Documents\Visual Studio 2019\Repos\TextEditor\TextEditor\obj\Debug\TextEditor.Properties.Resources.resources
+C:\Users\Albert\Documents\Visual Studio 2019\Repos\TextEditor\TextEditor\obj\Debug\TextEditor.csproj.GenerateResource.cache
+C:\Users\Albert\Documents\Visual Studio 2019\Repos\TextEditor\TextEditor\obj\Debug\TextEditor.csproj.CoreCompileInputs.cache
+C:\Users\Albert\Documents\Visual Studio 2019\Repos\TextEditor\TextEditor\obj\Debug\TextEditor.exe.manifest
+C:\Users\Albert\Documents\Visual Studio 2019\Repos\TextEditor\TextEditor\obj\Debug\TextEditor.application
+C:\Users\Albert\Documents\Visual Studio 2019\Repos\TextEditor\TextEditor\obj\Debug\TextEditor.exe
+C:\Users\Albert\Documents\Visual Studio 2019\Repos\TextEditor\TextEditor\obj\Debug\TextEditor.pdb
